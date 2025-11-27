@@ -1,0 +1,15 @@
+{
+  "headerBanner": {
+    "image": "",
+    "video": "",
+    "title": "Blog Bear",
+    "subtitle": "GitHubで更新できるブログ",
+    "showText": true
+  },
+  "profile": {
+    "name": "ブログ管理者",
+    "bio": "ブログの説明文がここに入ります。",
+    "icon": "",
+    "links": []
+  }
+}
